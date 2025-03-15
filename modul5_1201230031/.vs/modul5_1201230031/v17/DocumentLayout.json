@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HAKIM AL BAIHAQY\\Documents\\SEMESTER 4\\KonstruksiPerangkatLunak-06\\konstruksiPL_week4\\modul5_1201230031\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C375B3B-1040-4847-9061-8B4F51FF49E0}|modul5_1201230031\\modul5_1201230031.csproj|c:\\users\\hakim al baihaqy\\documents\\semester 4\\konstruksiperangkatlunak-06\\konstruksipl_week4\\modul5_1201230031\\modul5_1201230031\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C375B3B-1040-4847-9061-8B4F51FF49E0}|modul5_1201230031\\modul5_1201230031.csproj|solutionrelative:modul5_1201230031\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C375B3B-1040-4847-9061-8B4F51FF49E0}|modul5_1201230031\\modul5_1201230031.csproj|c:\\users\\hakim al baihaqy\\documents\\semester 4\\konstruksiperangkatlunak-06\\konstruksipl_week4\\modul5_1201230031\\modul5_1201230031\\simpledatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C375B3B-1040-4847-9061-8B4F51FF49E0}|modul5_1201230031\\modul5_1201230031.csproj|solutionrelative:modul5_1201230031\\simpledatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SimpleDataBase.cs",
+              "DocumentMoniker": "C:\\Users\\HAKIM AL BAIHAQY\\Documents\\SEMESTER 4\\KonstruksiPerangkatLunak-06\\konstruksiPL_week4\\modul5_1201230031\\modul5_1201230031\\SimpleDataBase.cs",
+              "RelativeDocumentMoniker": "modul5_1201230031\\SimpleDataBase.cs",
+              "ToolTip": "C:\\Users\\HAKIM AL BAIHAQY\\Documents\\SEMESTER 4\\KonstruksiPerangkatLunak-06\\konstruksiPL_week4\\modul5_1201230031\\modul5_1201230031\\SimpleDataBase.cs",
+              "RelativeToolTip": "modul5_1201230031\\SimpleDataBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T03:39:20.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HAKIM AL BAIHAQY\\Documents\\SEMESTER 4\\KonstruksiPerangkatLunak-06\\konstruksiPL_week4\\modul5_1201230031\\modul5_1201230031\\Program.cs",
+              "RelativeDocumentMoniker": "modul5_1201230031\\Program.cs",
+              "ToolTip": "C:\\Users\\HAKIM AL BAIHAQY\\Documents\\SEMESTER 4\\KonstruksiPerangkatLunak-06\\konstruksiPL_week4\\modul5_1201230031\\modul5_1201230031\\Program.cs",
+              "RelativeToolTip": "modul5_1201230031\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T03:38:47.606Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
